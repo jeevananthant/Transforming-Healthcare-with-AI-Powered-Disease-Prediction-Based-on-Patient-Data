@@ -1,1 +1,2 @@
-# Transforming-Healthcare-with-AI-Powered-Disease-Prediction-Based-on-Patient-Data
+# AI-diabetes-prediction
+AI-diabetes-prediction
